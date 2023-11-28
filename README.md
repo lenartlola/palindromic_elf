@@ -24,7 +24,7 @@ $ xxd bin | head -n 1
 The entire binary will be reversed, and the first byte, will be the last one.
 
 ```
-00000000: 0000 0000 0000 0000 0001 0101 464c 457f .ELF............
+00000000: 0000 0000 0000 0000 0001 0101 464c 457f ............FLE.
 ```
 
 ## Rules:
